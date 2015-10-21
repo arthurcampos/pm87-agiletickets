@@ -34,7 +34,8 @@
 			<input type="submit" value="Adicionar" />
 		</form>
 
-		<table cellpadding="0" cellspacing="0" width="100%">
+<!-- 		<table cellpadding="0" cellspacing="0" width="100%"> -->
+		<table>
 			<caption>Lista de espetáculos</caption>
 			<colgroup>
 				<col width="5%">
